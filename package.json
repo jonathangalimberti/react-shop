@@ -1,7 +1,7 @@
 {
   "name": "curso-practico-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-eshop",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/jonathangalimberti/react-shop.git"
   },
-  "keywords": ["react", "javascript"],
-  "author": "jonathan galimberti",
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "jonathan galimberti <jonathangalimberti@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jonathangalimberti/react-shop/issues"
   },
-  "homepage": "https://github.com/jonathangalimberti/react-shop#readme"
+  "homepage": "https://github.com/jonathangalimberti/react-shop#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
